@@ -5,6 +5,10 @@
 
 # this is not a readme
 
+creating mess 
+NANO > VI
+=======
+
 
 What am I doing here?
 When do these changes appear?
