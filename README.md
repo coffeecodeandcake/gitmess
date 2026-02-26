@@ -3,9 +3,9 @@
 the goal of this repo is to produce conflicts in the repo. 
 can we make it?
 
-...
+maybe yea
 
 
 ## References
 
-...
+* example.com
