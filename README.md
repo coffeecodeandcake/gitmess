@@ -4,7 +4,7 @@
 
 
 # this is not a readme
-
+i can't push
 creating mess 
 NANO > VI
 =======
