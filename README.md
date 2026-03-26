@@ -33,3 +33,10 @@ more changes because I am destructive
 ...
 
 random garbage
+
+
+# Let's do a poll
+
+[ ] Visual interface in editor (vscode, zed)
+[ ] Github interface
+[ ] CLI forevah
