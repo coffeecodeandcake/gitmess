@@ -10,10 +10,11 @@ woooo
 # this is not a readme
 i can't push
 # this is not a readme
-whaat??
+
 creating mess 
 NANO > VI
-ORANGE FLOUR WATER!!
+
+ORANGE FLower WATER!!
 
 NANO >>> VI
 
