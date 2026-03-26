@@ -4,11 +4,11 @@
 
 
 # this is not a readme
-whaat??
+
 creating mess 
 NANO > VI
 =======
-ORANGE FLOUR WATER!!
+
 
 What am I doing here?
 When do these changes appear?
