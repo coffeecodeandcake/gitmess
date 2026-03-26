@@ -1,6 +1,10 @@
 
-##Coffee, cake and code (dog?) 
-#26th Feb 2026
+# Coffee, cake and code (dog?) 
+
+## the coffee code and cake council remains unbeated
+woooo
+
+# 26th Feb 2026
 
 
 # this is not a readme
