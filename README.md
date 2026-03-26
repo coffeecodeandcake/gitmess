@@ -10,13 +10,14 @@ woooo
 # this is not a readme
 
 creating mess 
-NANO > VI
-=======
+
+NANO >>> VI
 
 
 What am I doing here?
-When do these changes appear?
-=======
+
+### When do these changes appear?
+
 the goal of this repo is to produce conflicts in the repo.
 can we make it?
 
@@ -31,3 +32,4 @@ maybe yea
 more changes because I am destructive
 ...
 
+random garbage
